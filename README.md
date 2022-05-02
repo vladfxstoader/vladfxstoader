@@ -2,11 +2,11 @@
 
 I am Vlad, a 2nd year Computer Science student @ UniBuc. I'm interested in programming and tech-related stuff.
 
-- C++, OOP, SQL advanced skills
+- C++, Python, SQL, PL/SQL advanced skills
 
-- Python HTML, CSS intermediate skills
+- HTML, CSS, OOP intermediate skills
 
-- Javascript, ASP.NET & Angular basic skills
+- Javascript, ASP.NET, Angular, React basic skills
 
 You can find me at toadervlad01@gmail.com for more info.
 
