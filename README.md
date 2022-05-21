@@ -8,8 +8,6 @@ I am Vlad, a 2nd year Computer Science student @ UniBuc, interested in programmi
 
 - Javascript, ASP.NET, Angular, React basic skills.
 
-You can find me at toadervlad01@gmail.com for more info.
-
 <!--
 **vladfxstoader/vladfxstoader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
