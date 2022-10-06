@@ -1,6 +1,6 @@
 ### Hello! :)
 
-I am Vlad, a 2nd year Computer Science student @ UniBuc, interested in programming and tech-related stuff.
+I am Vlad, a 3rd year Computer Science student @ UniBuc, interested in programming and tech-related stuff.
 
 - C++, Python, SQL, PL/SQL advanced skills;
 
